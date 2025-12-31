@@ -1,0 +1,43 @@
+<svg fill="none" viewBox="0 0 320 150" width="320" height="150" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          font-family: 'Courier New', Courier, monospace;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          height: 100%;
+          text-align: center;
+          font-size: 11px;
+          line-height: 110%;
+        }
+
+        p {
+          max-width: 320px;
+          text-align: justify;
+          margin: 0;
+        }
+
+        span {
+          display: block;
+          text-align: center;
+        }
+      </style>
+
+      <div class="container">
+        <p>
+            You've stepped upon a page where your mind is the key. There
+            are friends who may lend you guidance; yet the World is yours to
+            conquer alone. Exploring here will take more than mere rhythm
+            and timing, but the criteria are just as hidden as what they
+            reveal. Find yourself, and you will find the very thing hidden in
+            these repos. Beyond here is something like a server room -
+            beyond here is a pretty cool SEGA project.
+        </p>
+        <span>This is our SEKAI.</span>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
